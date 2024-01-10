@@ -2,7 +2,7 @@
 I am a 15-year-old aspiring programmer with a passion for
 web development. I have dedicated my time and
 efforts to mastering the fundamental building
-blocks of the web, including JavaScript, CSS, and HTML.
+blocks of the web, including HTML, CSS, and JavaScript.
 
 # Tech Stack & Tools
 I like to craft apps with different tools to provide the best experience for both Users and Developers.
